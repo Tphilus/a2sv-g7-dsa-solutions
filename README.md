@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tphilus/A2SV-DSA-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Tphilus/A2SV-DSA-/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2460-apply-operations-to-an-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/2460-apply-operations-to-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Tphilus/A2SV-DSA-/tree/master/2574-left-and-right-sum-differences) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Tphilus/A2SV-DSA-/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tphilus/A2SV-DSA-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tphilus/A2SV-DSA-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tphilus/A2SV-DSA-/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2574-left-and-right-sum-differences](https://github.com/Tphilus/A2SV-DSA-/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Search
 |  |
 | ------- |
