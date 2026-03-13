@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Tphilus/A2SV-DSA-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Tphilus/A2SV-DSA-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2418-sort-the-people](https://github.com/Tphilus/A2SV-DSA-/tree/master/2418-sort-the-people) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Tphilus/A2SV-DSA-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3794-reverse-string-prefix](https://github.com/Tphilus/A2SV-DSA-/tree/master/3794-reverse-string-prefix) |
 ## Trie
 |  |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tphilus/A2SV-DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Tphilus/A2SV-DSA-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/2460-apply-operations-to-an-array) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Tphilus/A2SV-DSA-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Tphilus/A2SV-DSA-/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tphilus/A2SV-DSA-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/Tphilus/A2SV-DSA-/tree/master/3794-reverse-string-prefix) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Tphilus/A2SV-DSA-/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tphilus/A2SV-DSA-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Tphilus/A2SV-DSA-/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Tphilus/A2SV-DSA-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Game Theory
 |  |
 | ------- |
