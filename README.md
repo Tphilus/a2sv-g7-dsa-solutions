@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Tphilus/A2SV-DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Tphilus/A2SV-DSA-/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Tphilus/A2SV-DSA-/tree/master/2574-left-and-right-sum-differences) |
 | [2679-sum-in-a-matrix](https://github.com/Tphilus/A2SV-DSA-/tree/master/2679-sum-in-a-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tphilus/A2SV-DSA-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Tphilus/A2SV-DSA-/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Tphilus/A2SV-DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Tphilus/A2SV-DSA-/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Tphilus/A2SV-DSA-/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3668-restore-finishing-order](https://github.com/Tphilus/A2SV-DSA-/tree/master/3668-restore-finishing-order) |
 ## Prefix Sum
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tphilus/A2SV-DSA-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tphilus/A2SV-DSA-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Tphilus/A2SV-DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
