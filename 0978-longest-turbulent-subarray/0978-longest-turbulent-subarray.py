@@ -1,15 +1,17 @@
 class Solution:
     def maxTurbulenceSize(self, arr: List[int]) -> int:
+        n = len(arr)
         left = 0
         result = 1
-        n = len(arr)
+
         for right in range(1, n):
-            if arr[right-1] == arr[right]:
-                result = max(result, 1)
-                left = right
-            elif right+1 < n and not (arr[right-1] < arr[right] > arr[right+1]) and not (arr[right-1] > arr[right] < arr[right+1]):
-                result = max(right - left + 1, result)
-                left = right
-            else:
-                result = max(right-left+1, result)
+            curr = arr[right] - arr[right - 1]
+            prev = arr[right-1] - arr[right-2] if right > 1 else None
+
+            if curr == 0:
+                left = right         
+            elif prev is not None and (prev > 0) == (curr > 0):
+                left = right - 1      
+            result = max(result, right - left + 1)
+
         return result
