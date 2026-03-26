@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Tphilus/A2SV-DSA-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Tphilus/A2SV-DSA-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Tphilus/A2SV-DSA-/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2418-sort-the-people](https://github.com/Tphilus/A2SV-DSA-/tree/master/2418-sort-the-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Tphilus/A2SV-DSA-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3794-reverse-string-prefix](https://github.com/Tphilus/A2SV-DSA-/tree/master/3794-reverse-string-prefix) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tphilus/A2SV-DSA-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1695-maximum-erasure-value/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2090-k-radius-subarray-averages/) | Medium |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Tphilus/A2SV-DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 ## Counting Sort
