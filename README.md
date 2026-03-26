@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tphilus/A2SV-DSA-/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Tphilus/A2SV-DSA-/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0414-third-maximum-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/Tphilus/A2SV-DSA-/tree/master/0447-number-of-boomerangs) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Tphilus/A2SV-DSA-/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tphilus/A2SV-DSA-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tphilus/A2SV-DSA-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/1480-running-sum-of-1d-array) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Tphilus/A2SV-DSA-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Tphilus/A2SV-DSA-/tree/master/0054-spiral-matrix) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Tphilus/A2SV-DSA-/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Tphilus/A2SV-DSA-/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/Tphilus/A2SV-DSA-/tree/master/0832-flipping-an-image) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Tphilus/A2SV-DSA-/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
