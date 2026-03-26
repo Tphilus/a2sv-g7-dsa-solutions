@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Tphilus/A2SV-DSA-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tphilus/A2SV-DSA-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2090-k-radius-subarray-averages](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Tphilus/A2SV-DSA-/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Tphilus/A2SV-DSA-/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tphilus/A2SV-DSA-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tphilus/A2SV-DSA-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1695-maximum-erasure-value/) | Medium |
+| [2090-k-radius-subarray-averages](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Tphilus/A2SV-DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 ## Counting Sort
