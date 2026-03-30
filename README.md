@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Tphilus/A2SV-DSA-/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Tphilus/A2SV-DSA-/tree/master/0412-fizz-buzz) |
 | [0447-number-of-boomerangs](https://github.com/Tphilus/A2SV-DSA-/tree/master/0447-number-of-boomerangs) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tphilus/A2SV-DSA-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
