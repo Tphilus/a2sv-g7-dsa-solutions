@@ -4,6 +4,7 @@ class Solution:
         prev = 0
 
         for num in arr:
-            prev = min(prev + 1, num)
+            if num > prev:
+                prev += 1
         
         return prev
