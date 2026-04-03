@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Tphilus/A2SV-DSA-/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0069-sqrtx/) | Easy |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tphilus/A2SV-DSA-/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/master/0876-middle-of-the-linked-list) |
