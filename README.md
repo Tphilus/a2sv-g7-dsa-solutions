@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/Tphilus/A2SV-DSA-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tphilus/A2SV-DSA-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Tphilus/A2SV-DSA-/tree/master/0219-contains-duplicate-ii) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Tphilus/A2SV-DSA-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Tphilus/A2SV-DSA-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Tphilus/A2SV-DSA-/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Tphilus/A2SV-DSA-/tree/master/0443-string-compression) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
