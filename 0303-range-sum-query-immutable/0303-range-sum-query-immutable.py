@@ -4,7 +4,7 @@ class NumArray:
         self.nums = nums
 
         for i in range(1, len(nums)):
-            self.nums[i] += self.nums[i - 1]
+            nums[i] += nums[i - 1]
 
     def sumRange(self, left: int, right: int) -> int:
         if left == 0:
