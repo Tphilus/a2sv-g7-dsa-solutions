@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0146-lru-cache](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0169-majority-element](https://github.com/Tphilus/A2SV-DSA-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tphilus/A2SV-DSA-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Tphilus/A2SV-DSA-/tree/master/0219-contains-duplicate-ii) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Tphilus/A2SV-DSA-/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 ## Dynamic Programming
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0146-lru-cache](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -428,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
