@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Tphilus/A2SV-DSA-/tree/master/1528-shuffle-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Tphilus/A2SV-DSA-/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/Tphilus/A2SV-DSA-/tree/master/1572-matrix-diagonal-sum) |
+| [1598-crawler-log-folder](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Tphilus/A2SV-DSA-/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tphilus/A2SV-DSA-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Tphilus/A2SV-DSA-/tree/master/1672-richest-customer-wealth) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tphilus/A2SV-DSA-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/Tphilus/A2SV-DSA-/tree/master/1528-shuffle-string) |
+| [1598-crawler-log-folder](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tphilus/A2SV-DSA-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Tphilus/A2SV-DSA-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Tphilus/A2SV-DSA-/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1598-crawler-log-folder](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
