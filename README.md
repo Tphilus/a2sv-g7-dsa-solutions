@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Tphilus/A2SV-DSA-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0138-copy-list-with-random-pointer](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0146-lru-cache/) | Medium |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0086-partition-list/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0146-lru-cache/) | Medium |
