@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -455,8 +456,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0146-lru-cache/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 <!---LeetCode Topics End-->
