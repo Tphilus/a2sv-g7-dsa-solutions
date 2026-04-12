@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Tphilus/A2SV-DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Tphilus/A2SV-DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Tphilus/A2SV-DSA-/tree/master/0661-image-smoother) |
+| [0739-daily-temperatures](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0789-escape-the-ghosts](https://github.com/Tphilus/A2SV-DSA-/tree/master/0789-escape-the-ghosts) |
 | [0804-unique-morse-code-words](https://github.com/Tphilus/A2SV-DSA-/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/Tphilus/A2SV-DSA-/tree/master/0832-flipping-an-image) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1598-crawler-log-folder](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -475,4 +477,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
