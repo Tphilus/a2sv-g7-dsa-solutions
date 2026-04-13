@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Tphilus/A2SV-DSA-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Tphilus/A2SV-DSA-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Tphilus/A2SV-DSA-/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Tphilus/A2SV-DSA-/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tphilus/A2SV-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Tphilus/A2SV-DSA-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Tphilus/A2SV-DSA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tphilus/A2SV-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Tphilus/A2SV-DSA-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Tphilus/A2SV-DSA-/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Tphilus/A2SV-DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Tphilus/A2SV-DSA-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tphilus/A2SV-DSA-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
