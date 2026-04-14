@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0498-diagonal-traverse](https://github.com/Tphilus/A2SV-DSA-/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Tphilus/A2SV-DSA-/tree/master/0500-keyboard-row) |
+| [0503-next-greater-element-ii](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/Tphilus/A2SV-DSA-/tree/master/0506-relative-ranks) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tphilus/A2SV-DSA-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tphilus/A2SV-DSA-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1598-crawler-log-folder](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -484,5 +486,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
