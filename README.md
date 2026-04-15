@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Tphilus/A2SV-DSA-/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0069-sqrtx/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Tphilus/A2SV-DSA-/tree/master/0412-fizz-buzz) |
 | [0447-number-of-boomerangs](https://github.com/Tphilus/A2SV-DSA-/tree/master/0447-number-of-boomerangs) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Tphilus/A2SV-DSA-/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/Tphilus/A2SV-DSA-/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0169-majority-element](https://github.com/Tphilus/A2SV-DSA-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tphilus/A2SV-DSA-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Tphilus/A2SV-DSA-/tree/master/0219-contains-duplicate-ii) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
