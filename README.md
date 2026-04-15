@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Tphilus/A2SV-DSA-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tphilus/A2SV-DSA-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/Tphilus/A2SV-DSA-/tree/master/1528-shuffle-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Tphilus/A2SV-DSA-/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tphilus/A2SV-DSA-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tphilus/A2SV-DSA-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tphilus/A2SV-DSA-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1695-maximum-erasure-value/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2090-k-radius-subarray-averages/) | Medium |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tphilus/A2SV-DSA-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Tphilus/A2SV-DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Tphilus/A2SV-DSA-/tree/master/0506-relative-ranks) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/Tphilus/A2SV-DSA-/tree/master/2679-sum-in-a-matrix) |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -488,4 +492,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0739-daily-temperatures/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 <!---LeetCode Topics End-->
