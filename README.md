@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Tphilus/A2SV-DSA-/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0134-gas-station](https://github.com/Tphilus/A2SV-DSA-/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0169-majority-element](https://github.com/Tphilus/A2SV-DSA-/tree/master/0169-majority-element) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0509-fibonacci-number](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0978-longest-turbulent-subarray](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0978-longest-turbulent-subarray/) | Medium |
 ## Linked List
