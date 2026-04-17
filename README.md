@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Tphilus/A2SV-DSA-/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0641-design-circular-deque](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0641-design-circular-deque/) | Medium |
+| [0901-online-stock-span](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 ## Dynamic Programming
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1598-crawler-log-folder](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0901-online-stock-span](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 ## Depth-First Search
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0901-online-stock-span/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
