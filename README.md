@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Tphilus/A2SV-DSA-/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tphilus/A2SV-DSA-/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1922-count-good-numbers](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1922-count-good-numbers/) | Medium |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2235-add-two-integers](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Tphilus/A2SV-DSA-/tree/master/2413-smallest-even-multiple) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tphilus/A2SV-DSA-/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1922-count-good-numbers](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1922-count-good-numbers/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
