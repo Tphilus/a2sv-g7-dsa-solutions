@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/Tphilus/A2SV-DSA-/tree/master/0412-fizz-buzz) |
 | [0447-number-of-boomerangs](https://github.com/Tphilus/A2SV-DSA-/tree/master/0447-number-of-boomerangs) |
+| [0486-predict-the-winner](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tphilus/A2SV-DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/Tphilus/A2SV-DSA-/tree/master/0447-number-of-boomerangs) |
 | [0455-assign-cookies](https://github.com/Tphilus/A2SV-DSA-/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0498-diagonal-traverse](https://github.com/Tphilus/A2SV-DSA-/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Tphilus/A2SV-DSA-/tree/master/0500-keyboard-row) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0394-decode-string](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0394-decode-string/) | Medium |
+| [0486-predict-the-winner](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tphilus/A2SV-DSA-/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Tphilus/A2SV-DSA-/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -471,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0486-predict-the-winner](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0978-longest-turbulent-subarray](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0978-longest-turbulent-subarray/) | Medium |
 ## Linked List
