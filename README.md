@@ -7,8 +7,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Tphilus/A2SV-DSA-/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0241-different-ways-to-add-parentheses](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0268-missing-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0342-power-of-four/) | Easy |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Tphilus/A2SV-DSA-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/Tphilus/A2SV-DSA-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Tphilus/A2SV-DSA-/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Tphilus/A2SV-DSA-/tree/master/0056-merge-intervals) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0641-design-circular-deque/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Tphilus/A2SV-DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Tphilus/A2SV-DSA-/tree/master/0661-image-smoother) |
+| [0704-binary-search](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0789-escape-the-ghosts](https://github.com/Tphilus/A2SV-DSA-/tree/master/0789-escape-the-ghosts) |
 | [0804-unique-morse-code-words](https://github.com/Tphilus/A2SV-DSA-/tree/master/0804-unique-morse-code-words) |
@@ -145,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/Tphilus/A2SV-DSA-/tree/master/0125-valid-palindrome) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/Tphilus/A2SV-DSA-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Tphilus/A2SV-DSA-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -236,8 +241,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0278-first-bad-version/) | Easy |
+| [0704-binary-search](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0704-binary-search/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tphilus/A2SV-DSA-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
@@ -354,8 +362,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0050-powx-n](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0241-different-ways-to-add-parentheses](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0326-power-of-three](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0394-decode-string](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0394-decode-string/) | Medium |
@@ -475,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0241-different-ways-to-add-parentheses](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0486-predict-the-winner](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0978-longest-turbulent-subarray](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0978-longest-turbulent-subarray/) | Medium |
@@ -551,5 +562,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0509-fibonacci-number](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
