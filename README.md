@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Tphilus/A2SV-DSA-/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Tphilus/A2SV-DSA-/tree/master/0904-fruit-into-baskets) |
+| [0962-maximum-width-ramp](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0969-pancake-sorting](https://github.com/Tphilus/A2SV-DSA-/tree/master/0969-pancake-sorting) |
 | [0978-longest-turbulent-subarray](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [0986-interval-list-intersections](https://github.com/Tphilus/A2SV-DSA-/tree/master/0986-interval-list-intersections) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/Tphilus/A2SV-DSA-/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0962-maximum-width-ramp](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0969-pancake-sorting](https://github.com/Tphilus/A2SV-DSA-/tree/master/0969-pancake-sorting) |
 | [0986-interval-list-intersections](https://github.com/Tphilus/A2SV-DSA-/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/Tphilus/A2SV-DSA-/tree/master/1089-duplicate-zeros) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0901-online-stock-span/) | Medium |
+| [0962-maximum-width-ramp](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1598-crawler-log-folder](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0901-online-stock-span/) | Medium |
+| [0962-maximum-width-ramp](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0962-maximum-width-ramp/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
