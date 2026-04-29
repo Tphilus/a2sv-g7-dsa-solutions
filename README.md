@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/Tphilus/A2SV-DSA-/tree/master/0447-number-of-boomerangs) |
 | [0455-assign-cookies](https://github.com/Tphilus/A2SV-DSA-/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0475-heaters/) | Medium |
 | [0486-predict-the-winner](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0498-diagonal-traverse](https://github.com/Tphilus/A2SV-DSA-/tree/master/0498-diagonal-traverse) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0278-first-bad-version/) | Easy |
+| [0475-heaters](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0475-heaters/) | Medium |
 | [0704-binary-search](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Tphilus/A2SV-DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Tphilus/A2SV-DSA-/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0475-heaters/) | Medium |
 | [0506-relative-ranks](https://github.com/Tphilus/A2SV-DSA-/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tphilus/A2SV-DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0853-car-fleet/) | Medium |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Tphilus/A2SV-DSA-/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Tphilus/A2SV-DSA-/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Tphilus/A2SV-DSA-/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0475-heaters/) | Medium |
 | [0567-permutation-in-string](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/Tphilus/A2SV-DSA-/tree/master/0832-flipping-an-image) |
