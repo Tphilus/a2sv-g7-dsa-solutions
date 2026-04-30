@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Tphilus/A2SV-DSA-/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0414-third-maximum-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0414-third-maximum-number) |
+| [0436-find-right-interval](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/Tphilus/A2SV-DSA-/tree/master/0447-number-of-boomerangs) |
 | [0455-assign-cookies](https://github.com/Tphilus/A2SV-DSA-/tree/master/0455-assign-cookies) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0278-first-bad-version/) | Easy |
+| [0436-find-right-interval](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0475-heaters](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0475-heaters/) | Medium |
 | [0704-binary-search](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Tphilus/A2SV-DSA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0414-third-maximum-number) |
+| [0436-find-right-interval](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Tphilus/A2SV-DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Tphilus/A2SV-DSA-/tree/master/0455-assign-cookies) |
