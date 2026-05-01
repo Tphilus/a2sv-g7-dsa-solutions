@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Tphilus/A2SV-DSA-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Tphilus/A2SV-DSA-/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Tphilus/A2SV-DSA-/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0118-pascals-triangle/) | Easy |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0069-sqrtx/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0162-find-peak-element](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0278-first-bad-version/) | Easy |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Tphilus/A2SV-DSA-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Tphilus/A2SV-DSA-/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Tphilus/A2SV-DSA-/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Tphilus/A2SV-DSA-/tree/master/0661-image-smoother) |
