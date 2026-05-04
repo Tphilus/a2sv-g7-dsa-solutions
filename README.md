@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Tphilus/A2SV-DSA-/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/Tphilus/A2SV-DSA-/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0561-array-partition/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tphilus/A2SV-DSA-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tphilus/A2SV-DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0641-design-circular-deque/) | Medium |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Tphilus/A2SV-DSA-/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0475-heaters/) | Medium |
 | [0506-relative-ranks](https://github.com/Tphilus/A2SV-DSA-/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tphilus/A2SV-DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0969-pancake-sorting](https://github.com/Tphilus/A2SV-DSA-/tree/master/0969-pancake-sorting) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0561-array-partition/) | Easy |
 | [1122-relative-sort-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tphilus/A2SV-DSA-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Tphilus/A2SV-DSA-/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Tphilus/A2SV-DSA-/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/Tphilus/A2SV-DSA-/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0561-array-partition/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0969-pancake-sorting](https://github.com/Tphilus/A2SV-DSA-/tree/master/0969-pancake-sorting) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Tphilus/A2SV-DSA-/tree/master/1561-maximum-number-of-coins-you-can-get) |
