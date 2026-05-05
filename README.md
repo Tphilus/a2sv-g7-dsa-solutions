@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Tphilus/A2SV-DSA-/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tphilus/A2SV-DSA-/tree/master/1248-count-number-of-nice-subarrays) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tphilus/A2SV-DSA-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tphilus/A2SV-DSA-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
