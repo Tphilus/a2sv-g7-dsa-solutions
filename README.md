@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Tphilus/A2SV-DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Tphilus/A2SV-DSA-/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0704-binary-search/) | Easy |
+| [0729-my-calendar-i](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0729-my-calendar-i/) | Medium |
 | [0739-daily-temperatures](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0789-escape-the-ghosts](https://github.com/Tphilus/A2SV-DSA-/tree/master/0789-escape-the-ghosts) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0475-heaters](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0475-heaters/) | Medium |
 | [0704-binary-search](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0704-binary-search/) | Easy |
+| [0729-my-calendar-i](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0729-my-calendar-i/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Tphilus/A2SV-DSA-/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0641-design-circular-deque](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0641-design-circular-deque/) | Medium |
+| [0729-my-calendar-i](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0729-my-calendar-i/) | Medium |
 | [0901-online-stock-span](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0729-my-calendar-i](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0729-my-calendar-i/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -605,4 +609,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0729-my-calendar-i](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0729-my-calendar-i/) | Medium |
 <!---LeetCode Topics End-->
