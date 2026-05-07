@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/Tphilus/A2SV-DSA-/tree/master/1528-shuffle-string) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Tphilus/A2SV-DSA-/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/Tphilus/A2SV-DSA-/tree/master/1572-matrix-diagonal-sum) |
 | [1598-crawler-log-folder](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1598-crawler-log-folder/) | Easy |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1552-magnetic-force-between-two-balls](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tphilus/A2SV-DSA-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/Tphilus/A2SV-DSA-/tree/master/0969-pancake-sorting) |
 | [1122-relative-sort-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tphilus/A2SV-DSA-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Tphilus/A2SV-DSA-/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Tphilus/A2SV-DSA-/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tphilus/A2SV-DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
