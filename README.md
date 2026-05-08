@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/Tphilus/A2SV-DSA-/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0447-number-of-boomerangs](https://github.com/Tphilus/A2SV-DSA-/tree/master/0447-number-of-boomerangs) |
 | [0486-predict-the-winner](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0436-find-right-interval](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0436-find-right-interval/) | Medium |
+| [0441-arranging-coins](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0475-heaters](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0475-heaters/) | Medium |
 | [0704-binary-search](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0704-binary-search/) | Easy |
 | [0729-my-calendar-i](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0729-my-calendar-i/) | Medium |
