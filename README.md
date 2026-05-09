@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Tphilus/A2SV-DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Tphilus/A2SV-DSA-/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0704-binary-search/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0729-my-calendar-i](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0729-my-calendar-i/) | Medium |
 | [0739-daily-temperatures](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Tphilus/A2SV-DSA-/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tphilus/A2SV-DSA-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tphilus/A2SV-DSA-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/1480-running-sum-of-1d-array) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0475-heaters](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0475-heaters/) | Medium |
 | [0704-binary-search](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0704-binary-search/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0729-my-calendar-i](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0729-my-calendar-i/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tphilus/A2SV-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Tphilus/A2SV-DSA-/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Tphilus/A2SV-DSA-/tree/master/0904-fruit-into-baskets) |
 | [0978-longest-turbulent-subarray](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
