@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Tphilus/A2SV-DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0641-design-circular-deque/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Tphilus/A2SV-DSA-/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0661-image-smoother](https://github.com/Tphilus/A2SV-DSA-/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0441-arranging-coins](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0475-heaters](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0475-heaters/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0729-my-calendar-i](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0729-my-calendar-i/) | Medium |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Tphilus/A2SV-DSA-/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tphilus/A2SV-DSA-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0853-car-fleet](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0969-pancake-sorting](https://github.com/Tphilus/A2SV-DSA-/tree/master/0969-pancake-sorting) |
 | [1122-relative-sort-array](https://github.com/Tphilus/A2SV-DSA-/tree/master/1122-relative-sort-array) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tphilus/A2SV-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Tphilus/A2SV-DSA-/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Tphilus/A2SV-DSA-/tree/master/0904-fruit-into-baskets) |
 | [0978-longest-turbulent-subarray](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0978-longest-turbulent-subarray/) | Medium |
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Tphilus/A2SV-DSA-/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0475-heaters/) | Medium |
 | [0567-permutation-in-string](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/Tphilus/A2SV-DSA-/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -503,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/Tphilus/A2SV-DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Tphilus/A2SV-DSA-/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/Tphilus/A2SV-DSA-/tree/master/2679-sum-in-a-matrix) |
 ## Bucket Sort
