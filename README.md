@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0071-simplify-path/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0394-decode-string/) | Medium |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -634,8 +636,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
