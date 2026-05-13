@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Tphilus/A2SV-DSA-/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tphilus/A2SV-DSA-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tphilus/A2SV-DSA-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/3516-find-closest-person/) | Easy |
 ## Number Theory
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0832-flipping-an-image](https://github.com/Tphilus/A2SV-DSA-/tree/master/0832-flipping-an-image) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/Tphilus/A2SV-DSA-/tree/master/2679-sum-in-a-matrix) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Tphilus/A2SV-DSA-/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3174-clear-digits](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/3174-clear-digits/) | Easy |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tphilus/A2SV-DSA-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/1922-count-good-numbers/) | Medium |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Tphilus/a2sv-g7-dsa-solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
