@@ -4,5 +4,5 @@ class Solution:
 
         for i, num in enumerate(accounts):
             counts.append(sum(num))
-
-        return max(counts)   
+            
+        return max(counts)
