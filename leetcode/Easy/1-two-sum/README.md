@@ -3,8 +3,8 @@
 - **Platform:** LeetCode
 - **Difficulty:** Easy
 - **Language:** Python3
-- **Submitted:** 2026-10-01T19:09:06.597Z
-- **Problem link:** https://leetcode.com/problems/two-sum/submissions/1900310230/
+- **Submitted:** 2026-10-01T19:09:31.000Z
+- **Problem link:** https://leetcode.com/problems/two-sum/submissions/2159558896/
 
 ## Problem Statement
 
@@ -51,12 +51,18 @@ Follow-up: Can you come up with an algorithm that is less than O(n2) time comp
 
 ```python
 
-c
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+
+        for i in range(len(nums)):
+            for j in range(i + 1, len(nums)):
+                if nums[i] + nums[j] == target:
+                    return [i, j]
 ```
 
 ## Complexity
 
-- **Time:** O(1)
+- **Time:** O(n^2)
 - **Space:** O(1)
 
 _Estimated from a static scan of loop nesting and allocation patterns, not true algorithmic analysis — verify before relying on it._
