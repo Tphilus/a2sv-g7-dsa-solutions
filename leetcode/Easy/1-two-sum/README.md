@@ -3,7 +3,7 @@
 - **Platform:** LeetCode
 - **Difficulty:** Easy
 - **Language:** Python3
-- **Submitted:** 2026-10-01T19:10:38.985Z
+- **Submitted:** 2026-10-01T19:12:22.907Z
 - **Problem link:** https://leetcode.com/problems/two-sum/submissions/2159558896/
 
 ## Problem Statement
