@@ -1,6 +1,6 @@
 <h2><a href="https://codeforces.com/contest/723/problem/A">The New Year: Meeting Friends</a></h2>
 
-**Language:** PyPy 3-64 &nbsp;&nbsp;|&nbsp;&nbsp; **Difficulty:** Easy (rating 800) &nbsp;&nbsp;|&nbsp;&nbsp; **Platform:** Codeforces &nbsp;&nbsp;|&nbsp;&nbsp; **Submitted:** October 1, 2026 at 8:17 PM
+**Language:** PyPy 3-64 &nbsp;&nbsp;|&nbsp;&nbsp; **Difficulty:** Easy (rating 800) &nbsp;&nbsp;|&nbsp;&nbsp; **Platform:** Codeforces &nbsp;&nbsp;|&nbsp;&nbsp; **Submitted:** October 2, 2026 at 11:07 AM
 
 ---
 
