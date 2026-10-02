@@ -1,0 +1,13 @@
+t = int(input())
+
+dic_letters = {
+    "YES", "yES", "Yes","yes","YeS", "YEs", "YeS" 
+}
+
+for _ in range(t):
+    letters = input().lower()
+    
+    if letters in dic_letters:
+        print("YES")
+    else:
+        print("NO")
